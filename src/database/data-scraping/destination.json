@@ -1,0 +1,2352 @@
+[
+   {
+      "Phuong": "Hoà An",
+      "Quan": "Cẩm Lệ",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Phát",
+      "Quan": "Cẩm Lệ",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Thọ Đông",
+      "Quan": "Cẩm Lệ",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Thọ Tây",
+      "Quan": "Cẩm Lệ",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Xuân",
+      "Quan": "Cẩm Lệ",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Khuê Trung",
+      "Quan": "Cẩm Lệ",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Bình Hiên",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Bình Thuận",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hải Châu 1",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hải Châu 2",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Cường Bắc",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Cường Nam",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Thuận Đông",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Thuận Tây",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Nam Dương",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Phước Ninh",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Thạch Thang",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Thanh Bình",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Thuận Phước",
+      "Quan": "Hải Châu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Hiệp Bắc",
+      "Quan": "Liên Chiểu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Hiệp Nam",
+      "Quan": "Liên Chiểu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Khánh Bắc",
+      "Quan": "Liên Chiểu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Khánh Nam",
+      "Quan": "Liên Chiểu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Minh",
+      "Quan": "Liên Chiểu",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Hải",
+      "Quan": "Ngũ Hành Sơn",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Quý",
+      "Quan": "Ngũ Hành Sơn",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Khuê Mỹ",
+      "Quan": "Ngũ Hành Sơn",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Mỹ An",
+      "Quan": "Ngũ Hành Sơn",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "An Hải Bắc",
+      "Quan": "Sơn Trà",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "An Hải Đông",
+      "Quan": "Sơn Trà",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "An Hải Tây",
+      "Quan": "Sơn Trà",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Mân Thái",
+      "Quan": "Sơn Trà",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Nại Hiên Đông",
+      "Quan": "Sơn Trà",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Phước Mỹ",
+      "Quan": "Sơn Trà",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Thọ Quang",
+      "Quan": "Sơn Trà",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "An Khê",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Chính Gián",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Hòa Khê",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Tam Thuận",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Tân Chính",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Thạc Gián",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Thanh Khê Đông",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Thanh Khê Tây",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Vĩnh Trung",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Xuân Hà",
+      "Quan": "Thanh Khê",
+      "ThanhPho": "Đà Nẵng"
+   },
+   {
+      "Phuong": "Cống Vị",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Điện Biên",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đội Cấn",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Giảng Võ",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Kim Mã",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Liễu Giai",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Ngọc Hà",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Ngọc Khánh",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Nguyễn Trung Trực",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phúc Xá",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Quán Thánh",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thành Công",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Trúc Bạch",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Vĩnh Phúc",
+      "Quan": "Ba Đình",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Cổ Nhuế 1",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Cổ Nhuế 2",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đông Ngạc",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đức Thắng",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Liên Mạc",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Minh Khai",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phú Diễn",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phúc Diễn",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Tây Tựu",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thụy Phương",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thượng Cát",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Xuân Đỉnh",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Xuân Tảo",
+      "Quan": "Bắc Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Dịch Vọng",
+      "Quan": "Cầu Giấy",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Dịch Vọng Hậu",
+      "Quan": "Cầu Giấy",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Mai Dịch",
+      "Quan": "Cầu Giấy",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Nghĩa Đô",
+      "Quan": "Cầu Giấy",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Nghĩa Tân",
+      "Quan": "Cầu Giấy",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Quan Hoa",
+      "Quan": "Cầu Giấy",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Trung Hòa",
+      "Quan": "Cầu Giấy",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Yên Hòa",
+      "Quan": "Cầu Giấy",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Cát Linh",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Bột",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Khâm Thiên",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Khương Thượng",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Kim Liên",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Láng Hạ",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Láng Thượng",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Nam Đồng",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Ngã Tư Sở",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Ô Chợ Dừa",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phương Liên",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phương Mai",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Quang Trung",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Quốc Tử Giám",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thịnh Quang",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thổ Quan",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Trung Liệt",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Trung Phụng",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Trung Tự",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Văn Chương",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Văn Miếu",
+      "Quan": "Đống Đa",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Biên Giang",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Dương Nội",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đồng Mai",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hà Cầu",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Kiến Hưng",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "La Khê",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Mộ Lao",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Nguyễn Trãi",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phú La",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phú Lãm",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phú Lương",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phúc La",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Quang Trung",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Vạn Phúc",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Văn Quán",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Yên Nghĩa",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Yết Kiêu",
+      "Quan": "Hà Đông",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Bách Khoa",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Bạch Đằng",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Bạch Mai",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Cầu Dền",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đống Mác",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đồng Nhân",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đồng Tâm",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Lê Đại Hành",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Minh Khai",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Nguyễn Du",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phạm Đình Hổ",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phố Huế",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Quỳnh Lôi",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Quỳnh Mai",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thanh Lương",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thanh Nhàn",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Trương Định",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Vĩnh Tuy",
+      "Quan": "Hai Bà Trưng",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Chương Dương",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Cửa Đông",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Cửa Nam",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đồng Xuân",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Bạc",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Bài",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Bồ",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Bông",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Buồm",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Đào",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Gai",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Mã",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hàng Trống",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Lý Thái Tổ",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phan Chu Trinh",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phúc Tân",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Tràng Tiền",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Trần Hưng Đạo",
+      "Quan": "Hoàn Kiếm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đại Kim",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Định Công",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Giáp Bát",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hoàng Liệt",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hoàng Văn Thụ",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Lĩnh Nam",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Mai Động",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Tân Mai",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thanh Trì",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thịnh Liệt",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Trần Phú",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Tương Mai",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Vĩnh Hưng",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Yên Sở",
+      "Quan": "Hoàng Mai",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Bồ Đề",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Cự Khối",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đức Giang",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Gia Thụy",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Giang Biên",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Long Biên",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Ngọc Lâm",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Ngọc Thụy",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phúc Đồng",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phúc Lợi",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Sài Đồng",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thạch Bàn",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thượng Thanh",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Việt Hưng",
+      "Quan": "Long Biên",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Cầu Diễn",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Đại Mỗ",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Mễ Trì",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Mỹ Đình 1",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Mỹ Đình 2",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phú Đô",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phương Canh",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Tây Mỗ",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Trung Văn",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Xuân Phương",
+      "Quan": "Nam Từ Liêm",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Bưởi",
+      "Quan": "Tây Hồ",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Nhật Tân",
+      "Quan": "Tây Hồ",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phú Thượng",
+      "Quan": "Tây Hồ",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Quảng An",
+      "Quan": "Tây Hồ",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thụy Khuê",
+      "Quan": "Tây Hồ",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Tứ Liên",
+      "Quan": "Tây Hồ",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Xuân La",
+      "Quan": "Tây Hồ",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Yên Phụ",
+      "Quan": "Tây Hồ",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Hạ Đình",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Khương Đình",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Khương Mai",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Khương Trung",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Kim Giang",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Nhân Chính",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Phương Liệt",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thanh Xuân Bắc",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thanh Xuân Nam",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thanh Xuân Trung",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Thượng Đình",
+      "Quan": "Thanh Xuân",
+      "ThanhPho": "Hà Nội"
+   },
+   {
+      "Phuong": "Bến Nghé",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bến Thành",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Cầu Kho",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Cầu Ông Lãnh",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Cô Giang",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Đa Kao",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Nguyễn Cư Trinh",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Nguyễn Thái Bình",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phạm Ngũ Lão",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Định",
+      "Quan": "Quận 1",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "An Khánh",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "An Lợi Đông",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "An Phú",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình An",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Khánh",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Trưng Đông",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Trưng Tây",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Cát Lái",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Thảo Điền",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Thủ Thiêm",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Thạnh Mỹ Lợi",
+      "Quan": "Quận 2",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Quận 3",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 15",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 16",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 18",
+      "Quan": "Quận 4",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 15",
+      "Quan": "Quận 5",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Quận 6",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Thuận",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phú Mỹ",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phú Thuận",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Hưng",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Kiểng",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Phong",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Phú",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Quy",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Thuận Đông",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Thuận Tây",
+      "Quan": "Quận 7",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 15",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 16",
+      "Quan": "Quận 8",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Hiệp Phú",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Long Bình",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Long Phước",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Long Thạnh Mỹ",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Long Trường",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phú Hữu",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phước Bình",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phước Long A",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phước Long B",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tăng Nhơn Phú A",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tăng Nhơn Phú B",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Phú",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Trường Thạnh",
+      "Quan": "Quận 9",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 15",
+      "Quan": "Quận 10",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 15",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 16",
+      "Quan": "Quận 11",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "An Phú Đông",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Đông Hưng Thuận",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Hiệp Thành",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Chánh Hiệp",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Hưng Thuận",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Thới Hiệp",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Thới Nhất",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Thạnh Lộc",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Thạnh Xuân",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Thới An",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Trung Mỹ Tây",
+      "Quan": "Quận 12",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "An Lạc",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "An Lạc A",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Hưng Hòa",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Hưng Hòa A",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Hưng Hòa B",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Trị Đông",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Trị Đông A",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Trị Đông B",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Tạo",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Tạo A",
+      "Quan": "Bình Tân",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 15",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 17",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 19",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 21",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 22",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 24",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 25",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 26",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 27",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 28",
+      "Quan": "Bình Thạnh",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 15",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 16",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 17",
+      "Quan": "Gò Vấp",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 15",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 17",
+      "Quan": "Phú Nhuận",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 1",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 2",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 3",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 4",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 5",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 6",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 7",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 8",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 9",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 10",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 11",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 12",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 13",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 14",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phường 15",
+      "Quan": "Tân Bình",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Hiệp Tân",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Hòa Thạnh",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phú Thạnh",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phú Thọ Hòa",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Phú Trung",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Sơn Kỳ",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Quý",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Sơn Nhì",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Thành",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tân Thới Hòa",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tây Thạnh",
+      "Quan": "Tân Phú",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Chiểu",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Bình Thọ",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Hiệp Bình Chánh",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Hiệp Bình Phước",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Linh Chiểu",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Linh Đông",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Linh Tây",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Linh Trung",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Linh Xuân",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tam Bình",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Tam Phú",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   },
+   {
+      "Phuong": "Trường Thọ",
+      "Quan": "Thủ Đức",
+      "ThanhPho": "TP. Hồ Chí Minh"
+   }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "name": "WC riêng",
+        "iconName": "toilet",
+        "iconType": "material-community",
+        "iconWeb": "restroom"
+    },
+    {
+        "name": "Chỗ để xe",
+        "iconName": "parking",
+        "iconType": "material-community",
+        "iconWeb": "parking"
+
+    },
+    {
+        "name": "Cửa sổ",
+        "iconName": "window-closed-variant",
+        "iconType": "material-community",
+        "iconWeb": "windows"
+
+    },
+    {
+        "name": "An ninh",
+        "iconName": "security",
+        "iconType": "material-community",
+        "iconWeb": "shield-alt"
+
+    },
+    {
+        "name": "Wifi",
+        "iconName": "wifi",
+        "iconType": "antdesign",
+        "iconWeb": "wifi"
+
+    },
+    {
+        "name": "Tự do",
+        "iconName": "clock",
+        "iconType": "evilicon",
+        "iconWeb": "user-clock"
+
+    },
+    {
+        "name": "Chủ riêng",
+        "iconName": "account-key-outline",
+        "iconType": "material-community",
+        "iconWeb": "key"
+
+    },
+    {
+        "name": "Máy lạnh",
+        "iconName": "air-conditioner",
+        "iconType": "material-community",
+        "iconWeb": "temperature-low"
+
+    },
+    {
+        "name": "Máy nước nóng",
+        "iconName": "water-boiler",
+        "iconType": "material-community",
+        "iconWeb": "hand-holding-water"
+
+    },
+    {
+        "name": "Nhà bếp",
+        "iconName": "stove",
+        "iconType": "material-community",
+        "iconWeb": "cookie-bite"
+
+    },
+    {
+        "name": "Tủ lạnh",
+        "iconName": "fridge-outline",
+        "iconType": "material-community",
+        "iconWeb": "snowflake"
+
+    },
+    {
+        "name": "Máy giặt",
+        "iconName": "washing-machine",
+        "iconType": "material-community",
+        "iconWeb": "tshirt"
+
+    },
+    {
+        "name": "Gác lửng",
+        "iconName": "stairs",
+        "iconType": "material-community",
+        "iconWeb": "stream"
+
+    },
+    {
+        "name": "Giường",
+        "iconName": "bed-outline",
+        "iconType": "ionicon",
+        "iconWeb": "bed"
+
+    },
+    {
+        "name": "Tủ đồ",
+        "iconName": "wardrobe-outline",
+        "iconType": "material-community",
+        "iconWeb": "door-closed"
+
+    },
+    {
+        "name": "Tivi",
+        "iconName": "tv-outline",
+        "iconType": "ionicon",
+        "iconWeb": "tv"
+
+    },
+    {
+        "name": "Thú cưng",
+        "iconName": "pets",
+        "iconType": "material",
+        "iconWeb": "paw"
+
+    },
+    {
+        "name": "Ban công",
+        "iconName": "list-outline",
+        "iconType": "ionicon",
+        "iconWeb": "eye"
+
+    }
+]
